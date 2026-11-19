@@ -1,0 +1,6 @@
+url: https://github.com/edrPsma/dsh-file-reference-git
+name: edrPsma/dsh-file-reference-git
+category: tools
+description:
+  en: Replaces the built-in @file provider with a git ls-files index so large repositories stay searchable and .gitignore is respected.
+  zh: 用 git ls-files 建立索引，替换内置 @file 补全，让超大仓库保持可搜索并遵循 .gitignore。
